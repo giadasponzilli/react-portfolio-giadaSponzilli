@@ -3,8 +3,8 @@
     "id": 1,
     "title": "Project 1",
     "description": "This is my project",
-    "image": "link to image source",
-    "github": "link to repo",
+    "image": "link to image source/100px180",
+    "repository": "link to repo",
     "deployedLink": "link to link"
   },
   {
@@ -12,7 +12,7 @@
     "title": "Project 2",
     "description": "This is my project",
     "image": "link to image source",
-    "github": "link to repo",
+    "repository": "link to repo",
     "deployedLink": "link to link"
   },
   {
@@ -20,7 +20,7 @@
     "title": "Project 3",
     "description": "This is my project",
     "image": "link to image source",
-    "github": "link to repo",
+    "repository": "link to repo",
     "deployedLink": "link to link"
   },
   {
@@ -28,7 +28,7 @@
     "title": "Project 4",
     "description": "This is my project",
     "image": "link to image source",
-    "github": "link to repo",
+    "repository": "link to repo",
     "deployedLink": "link to link"
   },
   {
@@ -36,7 +36,7 @@
     "title": "Project 5",
     "description": "This is my project",
     "image": "link to image source",
-    "github": "link to repo",
+    "repository": "link to repo",
     "deployedLink": "link to link"
   },
   {
@@ -44,7 +44,7 @@
     "title": "Project 6",
     "description": "This is my project",
     "image": "link to image source",
-    "github": "link to repo",
+    "repository": "link to repo",
     "deployedLink": "link to link"
   }
 ]
