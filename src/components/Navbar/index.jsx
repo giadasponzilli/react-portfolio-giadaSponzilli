@@ -5,15 +5,15 @@ import Navbar from 'react-bootstrap/Navbar';
 function MyNavbar() {
   return (
     <>
-      <Nav variant="tabs" defaultActiveKey="/home">
+      <Nav variant="tabs" defaultActiveKey="/">
         <Nav.Item>
-          <Nav.Link href="/home">Home</Nav.Link>
+          <Nav.Link href="/">Home</Nav.Link>
         </Nav.Item>
         <Nav.Item>
-          <Nav.Link eventKey="link-1">Project Gallery</Nav.Link>
+          <Nav.Link href="/projectsgallery">Projects Gallery</Nav.Link>
         </Nav.Item>
         <Nav.Item>
-          <Nav.Link eventKey="link-2">
+          <Nav.Link href="/contact">
             Contact
           </Nav.Link>
         </Nav.Item>
