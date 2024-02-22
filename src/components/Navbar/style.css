@@ -1,6 +1,6 @@
 .navbar {
   padding: 0;
-  /* background-color: #d89984; */
+  background-color: #d89984;
 }
 
 .nameBrand {
@@ -20,4 +20,5 @@
   height: 50px;
   border-radius: 40px;
   margin-right: 10px;
+  margin-left: 20px;
 }
