@@ -2,9 +2,10 @@ import { useLocation } from 'react-router-dom';
 import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
-import './style.css';
 import { NavbarBrand } from 'react-bootstrap';
+
 import profileImage from '../../assets/images/giadasponzilli-square.jpg';
+import './style.css';
 
 
 function MyNavbar() {

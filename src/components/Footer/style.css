@@ -1,0 +1,22 @@
+footer {
+  background-color: var(--color1);
+  color: var(--color2);
+  text-align: center;
+  padding: 20px;
+}
+
+.fa-brands {
+  margin: 25px;
+}
+
+.fa-brands:hover {
+  opacity: 0.6;
+}
+
+/* .customIcon {
+  color: var(--color2);
+} */
+
+.customIcon:visited {
+  color: var(--color2);
+}
