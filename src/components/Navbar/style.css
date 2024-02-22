@@ -1,0 +1,23 @@
+.navbar {
+  padding: 0;
+  /* background-color: #d89984; */
+}
+
+.nameBrand {
+  margin-right: auto;
+}
+
+.container-fluid {
+  width: 100vw;
+}
+
+.linksWrap {
+  border-bottom: solid black !important;
+}
+
+.profileImage {
+  width: 50px;
+  height: 50px;
+  border-radius: 40px;
+  margin-right: 10px;
+}
