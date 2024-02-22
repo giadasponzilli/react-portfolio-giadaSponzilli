@@ -1,3 +1,7 @@
+.home-container {
+  background-color: #fcd7cb;
+}
+
 .background-image {
   background-image: url('../../assets/images/teija-pelkonen-supercyan-computerset-render.jpg');
   background-repeat: no-repeat;
