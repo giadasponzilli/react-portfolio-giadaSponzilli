@@ -2,11 +2,16 @@
   background-color: #fcd7cb;
 }
 
+.cardContainerHome {
+  display: flex;
+  justify-content: center;
+}
+
 .background-image {
   background-image: url('../../assets/images/teija-pelkonen-supercyan-computerset-render.jpg');
   background-repeat: no-repeat;
-  /* background-position: center; */
-  background-size: contain;
+  background-position: center;
+  background-size: cover;
   padding: 50px;
   max-width: 100vw;
   min-height: 100vw;
@@ -19,3 +24,37 @@
   color: white;
   text-shadow: 2px 2px 4px #000000;
 } */
+
+.cardHome {
+  padding: 15px;
+  background-color:  rgba(252, 215, 203, 0.6) !important;
+  justify-content: center;
+  max-width: 400px;
+  margin: 20px;
+  margin-top: 60px;
+}
+
+/* .description-image {
+  background-image: url('../../assets/images/browser_Home.png');
+  z-index: 10;
+  min-height: 300px;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  flex-shrink: 0;
+  margin-left: auto; 
+} */
+
+.cardImg {
+  width: 150px;
+  height: 150px;
+  border-radius: 15px !important;
+}
+
+.cardTitle {
+  font-size: 30px !important;
+}
+
+.cardText {
+  font-size: 16px !important;
+}
