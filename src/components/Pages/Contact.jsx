@@ -77,11 +77,11 @@ const Contact = () => {
       <div className="contact-container">
         <h1>Contact Me</h1>
         <div className="details-container">
-          <a className="btn btn-large btn logout customIcon" href="https://github.com/giadasponzilli" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faGithub} size="2x" /></a>
+          <a className="btn btn-large btn logout customIcon btnContact" href="https://github.com/giadasponzilli" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faGithub} size="2x" /></a>
 
-          <a className="btn btn-large btn logout customIcon" href="https://uk.linkedin.com/in/giada-sponzilli-b39b9b63" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faLinkedin} size="2x" /></a>
+          <a className="btn btn-large btn logout customIcon btnContact" href="https://uk.linkedin.com/in/giada-sponzilli-b39b9b63" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faLinkedin} size="2x" /></a>
 
-          <a className="btn btn-large btn logout customIcon" href="mailto:sponzilli.g@gmail.com"><FontAwesomeIcon icon={faEnvelope} size="2x" /></a>
+          <a className="btn btn-large btn logout customIcon btnContact" href="mailto:sponzilli.g@gmail.com"><FontAwesomeIcon icon={faEnvelope} size="2x" /></a>
 
           <h3>Let's connect!</h3>
         </div>

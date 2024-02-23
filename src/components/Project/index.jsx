@@ -14,10 +14,10 @@ function ProjectCard({ project }) {
         </Card.Text>
         <div className='button-container'>
           <div>
-            <a href={project.repository} target="_blank" rel="noopener noreferrer"><Button variant="primary">Repository</Button></a>
+            <a href={project.repository} target="_blank" rel="noopener noreferrer"><Button variant="primary" className="btnGallery">Repository</Button></a>
           </div>
           <div>
-            <a href={project.deployedLink} target="_blank" rel="noopener noreferrer"><Button variant="primary">Deployed Site</Button></a>
+            <a href={project.deployedLink} target="_blank" rel="noopener noreferrer" ><Button variant="primary" className="btnGallery">Deployed Site</Button></a>
           </div>
         </div>
       </Card.Body>

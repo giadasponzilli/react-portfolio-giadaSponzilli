@@ -56,14 +56,14 @@ h1 {
   text-align: justify;
 }
 
-.btn {
+.btnGallery {
   margin: 10px !important;
   color: black !important;
   background-color: #fab39b !important;
   border: grey !important;
 }
 
-.btn:hover {
+.btnGallery:hover {
   background-color: #d2b1a5 !important;
 }
 
