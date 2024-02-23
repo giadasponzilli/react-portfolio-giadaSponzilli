@@ -6,3 +6,25 @@
   background-color: #fcd7cb;
   margin: 60px auto;
 }
+
+.form-container {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.form {
+  margin: 20px;
+}
+
+.form input {
+  display: block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  width: 100%;
+  background-color: white;
+  color: black;
+}
+
+.textInput {
+  height: 100px;
+}
