@@ -3,21 +3,12 @@
   background-color: #d89984;
 }
 
-.nameBrand {
-  margin-right: auto;
-}
-
 .container-fluid {
   width: 100vw;
 }
 
-.linksWrap {
-  border-bottom: solid black !important;
-  margin-right: 100px;
-}
-
-.active {
-  background: #fcd7cb !important;
+.nameBrand {
+  margin-right: auto;
 }
 
 .profileImage {
@@ -26,4 +17,18 @@
   border-radius: 40px;
   margin-right: 10px;
   margin-left: 20px;
+}
+
+.linksWrap {
+  border-bottom: solid black !important;
+  margin-right: 100px;
+}
+
+.navLink {
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+}
+
+.active {
+  background: #fcd7cb !important;
 }

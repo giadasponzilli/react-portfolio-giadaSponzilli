@@ -76,7 +76,7 @@ const Contact = () => {
               placeholder="Your message"
               className='textInput'
             />
-            <button onClick={handleFormSubmit}>Submit</button>
+            <button className="form-btn" onClick={handleFormSubmit}>Submit</button>
           </form>
         </div>
       </div>

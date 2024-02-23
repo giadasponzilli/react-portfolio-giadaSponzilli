@@ -21,9 +21,9 @@ function MyNavbar() {
         <Container fluid>
           <NavbarBrand className="nameBrand" href="/"><img src={profileImage} alt="Profile" className='profileImage'/>Giada Sponzilli</NavbarBrand>
           <Nav className="linksWrap" variant="tabs" defaultActiveKey={currentPath}>
-            <Nav.Link href="/">Home</Nav.Link>
-            <Nav.Link href="/projectsgallery">Projects Gallery</Nav.Link>
-            <Nav.Link href="/contact">Contact</Nav.Link>
+            <Nav.Link className="navLink" href="/">Home</Nav.Link>
+            <Nav.Link className="navLink" href="/projectsgallery">Projects Gallery</Nav.Link>
+            <Nav.Link className="navLink" href="/contact">Contact</Nav.Link>
           </Nav>
         </Container>
       </Navbar>

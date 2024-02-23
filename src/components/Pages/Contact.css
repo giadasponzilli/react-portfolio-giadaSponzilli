@@ -23,8 +23,13 @@
   width: 100%;
   background-color: white;
   color: black;
+  border-radius: 8px;
 }
 
 .textInput {
   height: 100px;
+}
+
+.form-btn {
+  border-radius: 10px;
 }
