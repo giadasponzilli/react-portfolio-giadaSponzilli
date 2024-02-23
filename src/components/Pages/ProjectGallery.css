@@ -38,6 +38,7 @@ h1 {
 
 .btn {
   margin: 10px !important;
+  color: black !important;
   background-color: #fab39b !important;
   border: grey !important;
 }
