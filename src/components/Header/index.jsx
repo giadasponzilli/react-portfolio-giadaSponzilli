@@ -3,7 +3,6 @@ import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import { NavbarBrand } from 'react-bootstrap';
-import NavDropdown from 'react-bootstrap/NavDropdown';
 
 import profileImage from '../../assets/images/giadasponzilli-square.jpg';
 import './style.css';
