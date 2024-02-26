@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
+import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import MyNavbar from './components/Header'
 import { Home, Contact, ProjectGallery, Custom404 } from './components/Pages'
 import MyFooter from './components/Footer'
@@ -9,7 +9,9 @@ import './App.css'
 function App() {
 
   return (
-    <Router basename={'/react-portfolio-giadaSponzilli'}>
+    <BrowserRouter
+      basename={import.meta.env.DEV ? "/" : "/react-portfolio-giadaSponzilli/"}
+    >
       < MyNavbar />
       <Routes>
         <Route path='/' element={<Home/>}/>
@@ -18,7 +20,7 @@ function App() {
         <Route path='/404' element={<Custom404/>}/>
       </Routes>
       < MyFooter />
-    </Router>
+    </BrowserRouter>
   )
 }
 
