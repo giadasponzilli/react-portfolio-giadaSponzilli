@@ -9,7 +9,7 @@ function App() {
 
   return (
     <BrowserRouter
-      basename={import.meta.env.DEV ? "/" : "/react-portfolio-giadaSponzilli/"}
+      basename={`/${process.env.PUBLIC_URL}`}
     >
       < MyNavbar />
       <Routes>
