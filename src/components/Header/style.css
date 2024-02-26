@@ -19,6 +19,10 @@
   margin-left: 20px;
 }
 
+#basic-navbar-nav {
+  flex-grow: 0;
+}
+
 .linksWrap {
   border-bottom: solid black !important;
   margin-right: 100px;
