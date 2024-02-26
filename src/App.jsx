@@ -12,10 +12,10 @@ function App() {
     <Router basename={'/react-portfolio-giadaSponzilli'}>
       < MyNavbar />
       <Routes>
-        <Route path='./' element={<Home/>}/>
-        <Route path='./projectsgallery' element={<ProjectGallery/>}/>
-        <Route path='./contact' element={<Contact/>}/>
-        <Route path='./404' element={<Custom404/>}/>
+        <Route path='/' element={<Home/>}/>
+        <Route path='/projectsgallery' element={<ProjectGallery/>}/>
+        <Route path='/contact' element={<Contact/>}/>
+        <Route path='/404' element={<Custom404/>}/>
       </Routes>
       < MyFooter />
     </Router>
