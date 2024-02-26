@@ -11,7 +11,7 @@
     "id": 2,
     "title": "Daily work planner",
     "description": "The daily work planner lets users save hourly events from 9am to 5pm. It's a browser-based application with dynamic HTML and CSS, driven by JavaScript. It utilizes the Day.js library to show date and time.",
-    "image": "src/assets/images/projects/Daily work planner.png",
+    "image": "./images/projects/Daily work planner.png",
     "repository": "https://github.com/giadasponzilli/work-day-scheduler-giadasponzilli",
     "deployedLink": "https://giadasponzilli.github.io/work-day-scheduler-giadasponzilli/"
   },
