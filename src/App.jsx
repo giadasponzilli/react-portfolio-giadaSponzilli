@@ -9,14 +9,14 @@ function App() {
 
   return (
     <Router
-    basename={import.meta.env.DEV ? '/' : '/react-portfolio-giadaSponzilli/'}
+    basename={'/react-portfolio-giadaSponzilli/'}
     >
-      < MyNavbar />
+      <MyNavbar/>
       <Routes>
-        <Route path='/react-portfolio-giadaSponzilli/' element={<Home/>}/>
-        <Route path='/react-portfolio-giadaSponzilli/projectsgallery' element={<ProjectGallery/>}/>
-        <Route path='/react-portfolio-giadaSponzilli/contact' element={<Contact/>}/>
-        <Route path='/react-portfolio-giadaSponzilli/404' element={<Custom404/>}/>
+        <Route path='/' element={<Home/>}/>
+        <Route path='/projectsgallery' element={<ProjectGallery/>}/>
+        <Route path='/contact' element={<Contact/>}/>
+        <Route path='/404' element={<Custom404/>}/>
       </Routes>
       < MyFooter />
     </Router>
