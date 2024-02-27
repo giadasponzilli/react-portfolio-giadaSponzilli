@@ -9,7 +9,7 @@ function App() {
 
   return (
     <Router
-    basename={'/react-portfolio-giadaSponzilli/'}
+    basename={'https://giadasponzilli.github.io/react-portfolio-giadaSponzilli/'}
     >
       <MyNavbar/>
       <Routes>
