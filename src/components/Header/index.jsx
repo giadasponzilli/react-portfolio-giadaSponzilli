@@ -23,9 +23,9 @@ function MyNavbar() {
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="linksWrap mr-auto" variant="tabs" defaultActiveKey={currentPath}>
-              <Nav.Link className="navLink" href="/">Home</Nav.Link>
-              <Nav.Link className="navLink" href="/projectsgallery">Projects Gallery</Nav.Link>
-              <Nav.Link className="navLink" href="/contact">Contact</Nav.Link>
+              <Nav.Link className="navLink" href="./">Home</Nav.Link>
+              <Nav.Link className="navLink" href="./projectsgallery">Projects Gallery</Nav.Link>
+              <Nav.Link className="navLink" href="./contact">Contact</Nav.Link>
               <Nav.Link className="navLink" href="https://drive.google.com/file/d/1O4xwY41kbWU8C8sS7Dv75uPpkd_pdLE8/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resume</Nav.Link>
             </Nav>
           </Navbar.Collapse>

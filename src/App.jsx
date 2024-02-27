@@ -7,36 +7,20 @@ import './App.css'
 
 
 function App() {
+
   return (
-    <Router basename={'/react-portfolio-giadaSponzilli/'}>
-      <MyNavbar />
+    <Router
+    basename={'/react-portfolio-giadaSponzilli/'}>
+      <MyNavbar/>
       <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/projectsgallery" element={<ProjectGallery />} />
-        <Route path="/contact" element={<Contact />} />
-        <Route path="/404" element={<Custom404 />} />
+        <Route path='/' element={<Home/>}/>
+        <Route path='/projectsgallery' element={<ProjectGallery/>}/>
+        <Route path='/contact' element={<Contact/>}/>
+        <Route path='/404' element={<Custom404/>}/>
       </Routes>
-      <MyFooter />
+      < MyFooter />
     </Router>
-  );
+  )
 }
-
-// function App() {
-
-//   return (
-//     <Router
-//     basename={'/react-portfolio-giadaSponzilli/'}
-//     >
-//       <MyNavbar/>
-//       <Routes>
-//         <Route path='/' element={<Home/>}/>
-//         <Route path='/projectsgallery' element={<ProjectGallery/>}/>
-//         <Route path='/contact' element={<Contact/>}/>
-//         <Route path='/404' element={<Custom404/>}/>
-//       </Routes>
-//       < MyFooter />
-//     </Router>
-//   )
-// }
 
 export default App
