@@ -10,7 +10,8 @@ function App() {
 
   return (
     <Router
-    basename={'/react-portfolio-giadaSponzilli/'}>
+    // basename={'/react-portfolio-giadaSponzilli/'}
+    >
       <MyNavbar/>
       <Routes>
         <Route path='/' element={<Home/>}/>

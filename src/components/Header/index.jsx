@@ -19,7 +19,7 @@ function MyNavbar() {
     <>
       <Navbar fixed="top" expand="lg" className="">
         <Container fluid>
-          <Navbar.Brand className="nameBrand" href="/"><img src={profileImage} alt="Profile" className='profileImage' />Giada Sponzilli</Navbar.Brand>
+          <Navbar.Brand className="nameBrand" href="./"><img src={profileImage} alt="Profile" className='profileImage' />Giada Sponzilli</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="linksWrap mr-auto" variant="tabs" defaultActiveKey={currentPath}>

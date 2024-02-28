@@ -1,4 +1,5 @@
 import './Home.css';
+import profileImg from '../../assets/images/giadasponzilli-square.jpg'
 
 import Card from 'react-bootstrap/Card';
 
@@ -18,7 +19,7 @@ const Home = () => {
 <div className='cardContainerHome'>
           <Card style={{ width: '22rem' }} className='cardHome'>
             <div className='image-container'>
-              <Card.Img variant="top" className="cardImg" src="src/assets/images/giadasponzilli-square.jpg" alt="" />
+              <Card.Img variant="top" className="cardImg" src={profileImg} alt="" />
             </div>
             <Card.Body>
               <Card.Title className='cardTitle'>Hi, I am Giada Sponzilli</Card.Title>
