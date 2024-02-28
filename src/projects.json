@@ -3,7 +3,7 @@
     "id": 1,
     "title": "Foodie Recipes Website",
     "description": "The Foodie App helps users find recipes tailored to their dietary needs and available ingredients. Users can search for recipes using specific ingredients and receive up to four recipe suggestions for inspiration.",
-    "image": "/projects/FoodieAppSS.png",
+    "image": "./projects/FoodieAppSS.png",
     "repository": "https://github.com/giadasponzilli/Foodie-Recipes-App",
     "deployedLink": "https://rgc1.github.io/Foodie-Recipes-App/"
   },
@@ -11,7 +11,7 @@
     "id": 2,
     "title": "Daily work planner",
     "description": "The daily work planner lets users save hourly events from 9am to 5pm. It's a browser-based application with dynamic HTML and CSS, driven by JavaScript. It utilizes the Day.js library to show date and time.",
-    "image": "/projects/Daily work planner.png",
+    "image": "./projects/Daily work planner.png",
     "repository": "https://github.com/giadasponzilli/work-day-scheduler-giadasponzilli",
     "deployedLink": "https://giadasponzilli.github.io/work-day-scheduler-giadasponzilli/"
   },
@@ -19,7 +19,7 @@
     "id": 3,
     "title": "Weather Dashboard",
     "description": "The weather dashboard retrieves and displays weather data for chosen cities, including current conditions and a 5-day forecast. It uses Local Storage to save cities searched by the user and features dynamic updates powered by JavaScript and the Open Weather Map API.",
-    "image": "/projects/Weather-App.png",
+    "image": "./projects/Weather-App.png",
     "repository": "https://github.com/giadasponzilli/weather-dashboard-giadasponzilli",
     "deployedLink": "https://giadasponzilli.github.io/weather-dashboard-giadasponzilli/"
   },
@@ -27,7 +27,7 @@
     "id": 4,
     "title": "Javascript Quiz",
     "description": "The JavaScript quiz in the browser tests students with multiple-choice questions, featuring dynamic updates and a 60-second timer. Each wrong answer deducts 10 seconds. The quiz ends when all questions are answered or time runs out, showing the user's score.",
-    "image": "/projects/Coding-quiz.png",
+    "image": "./projects/Coding-quiz.png",
     "repository": "https://github.com/giadasponzilli/code-javascript-quiz",
     "deployedLink": "https://giadasponzilli.github.io/code-javascript-quiz/"
   },
@@ -35,7 +35,7 @@
     "id": 5,
     "title": "Password Generator",
     "description": "The password generator lets users create a random password. They can select the length and which character sets to include. Users are prompted to choose their criteria before generating the password with a click. The app, running in the browser, features dynamic HTML and CSS, and is responsive across screen sizes.",
-    "image": "/projects/Password-generator.png",
+    "image": "./projects/Password-generator.png",
     "repository": "https://github.com/giadasponzilli/password-generator",
     "deployedLink": "https://giadasponzilli.github.io/password-generator/"
   },
@@ -43,7 +43,7 @@
     "id": 6,
     "title": "Bootstrap Portfolio",
     "description": "This portfolio showcases my web development skills to potential employers. It's built with Bootstrap 5 and serves as a foundation for future projects. The website utilizes Bootstrap 5, flex-boxes, variables, and pseudo-classes.",
-    "image": "/projects/Bootstrap-Portfolio.png",
+    "image": "./projects/Bootstrap-Portfolio.png",
     "repository": "https://github.com/giadasponzilli/giada-sponzilli-bootstrap-portfolio",
     "deployedLink": "https://giadasponzilli.github.io/giada-sponzilli-bootstrap-portfolio/"
   }
