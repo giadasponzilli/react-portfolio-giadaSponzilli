@@ -55,4 +55,23 @@ h1 {
   background-color: #d2b1a5 !important;
 }
 
+@media screen and (max-width: 768px) {
+  .card-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 350px); 
+    justify-content: center;
+    grid-gap: 100px; 
+    margin: 0px auto 70px;
+  }
+  
+  .cardProjects {
+    width: 350px !important;
+  }
+  
+  .image-container {
+    height: 200px;
+  }
+  
+}
+
 
