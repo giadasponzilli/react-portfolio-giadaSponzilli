@@ -72,9 +72,9 @@ For any additional questions please feel free to reach me at:
 
 ## Badges <a id="badges"></a>
 
-![Static Badge](https://img.shields.io/badge/25%25-blue?label=HTML&labelColor=green)
-![Static Badge](https://img.shields.io/badge/8%25-blue?label=CSS&labelColor=yellow)
-![Static Badge](https://img.shields.io/badge/67%25-blue?label=JavaScript&labelColor=red)
+![Static Badge](https://img.shields.io/badge/8%25-blue?label=HTML&labelColor=green)
+![Static Badge](https://img.shields.io/badge/27%25-blue?label=CSS&labelColor=yellow)
+![Static Badge](https://img.shields.io/badge/65%25-blue?label=JavaScript&labelColor=red)
 
 
 
