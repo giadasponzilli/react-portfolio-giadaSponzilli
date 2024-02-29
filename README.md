@@ -16,7 +16,7 @@ Technologies Used:
   * React: The core framework used for building the entire application, facilitating the creation of reusable components and efficient state management.
   * React Router: Employed for client-side routing, enabling seamless navigation between different sections of the portfolio.
   * JSON Data Management: Project information is stored in a JSON file and imported into the application, promoting separation of concerns and ease of maintenance.
-  * React Bootstrap: Styling is implemented with React Bootstrap, offering a diverse set of pre-designed UI components for efficient development. It prioritizes readability and visual appeal by adjusting font size and color contrast, while customization options enable alignment with project-specific needs.
+  * React Bootstrap: Styling is implemented with React Bootstrap, offering a diverse set of pre-designed UI components for efficient development. It prioritizes readability and visual appeal by adjusting font size and colour contrast, while customization options enable alignment with project-specific needs.
 
 The code is deployed at https://giadasponzilli.github.io/react-portfolio-giadaSponzilli/ 
 
@@ -40,8 +40,8 @@ The code is deployed at https://giadasponzilli.github.io/react-portfolio-giadaSp
 ![alt text](src/assets/images/screencapture-giadasponzilli-github-io-react-portfolio-giadaSponzilli-contact-2024-02-29-12_01_00.png)
 
 ## Installation <a id="installation"></a>
-This code can be installed clicking on the "Code" green button above and git cloning the SSH to your local terminal.
-When the project is open in you editor install all required packages by running:
+This code can be installed by clicking on the "Code" green button above and git cloning the SSH to your local terminal.
+When the project is open in your editor install all required packages by running:
 `npm i`.
 Once all packages are installed, you can start the development server by running: `npm run dev`.
 
