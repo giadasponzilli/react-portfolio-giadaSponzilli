@@ -1,6 +1,6 @@
 import Card from 'react-bootstrap/Card';
 
-import profileImg from '../../assets/images/giadasponzilli-square.jpg'
+import profileImg from '../../assets/images/Giada-Sponzilli-square-cut.jpg'
 import './Home.css';
 
 
