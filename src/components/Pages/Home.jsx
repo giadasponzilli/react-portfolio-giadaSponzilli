@@ -19,7 +19,7 @@ const Home = () => {
               <Card.Body>
                 <Card.Title className='cardTitle'>Hi, I am Giada Sponzilli</Card.Title>
                 <Card.Text className='cardText'>
-                  As a UK-based Front-end Web Developer with a background in cinematography and photography, I bring a unique blend of creativity and technical expertise to my projects. Currently honing my skills in the EdX Front-end Web Development Bootcamp.
+                  As a UK-based Front-end Web Developer with a background in cinematography and photography, I bring a unique blend of creativity and technical expertise to my projects. I've recently completed the EdX Front-end Web Development Bootcamp and I'm excited to embark on a new journey in the coding field.
                 </Card.Text>
               </Card.Body>
             </Card>
