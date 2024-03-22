@@ -3,7 +3,7 @@
     "id": 1,
     "title": "Trendoo Website",
     "description": "Trendoo is a dynamic fashion platform showcasing cutting-edge clothing for men and women. Built with React and Vite, styled with Tailwind CSS, it offers a visually appealing interface where users can filter products, save favorites, and connect via social media.",
-    "image": "./projects/TrendooWebsite.gif",
+    "image": "./projects/TrendooWebsite.png",
     "repository": "https://github.com/RGC1/TrendooEshopApp",
     "deployedLink": "https://trendoo.netlify.app/"
   },
